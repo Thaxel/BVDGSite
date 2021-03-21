@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #333;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: whitesmoke;
+  }
+  
+li {
+  float: left;
+}
+  
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+img{
+    width: 447px;
+    height: 275px;
+    
+}
+
+.container{
+    display: block-inline;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.clear{
+    clear: both;
+}
+
+.wrapper{
+    width: 1500px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+
+td{
+    padding-bottom: 20px;
+}
