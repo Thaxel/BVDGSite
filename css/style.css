@@ -48,3 +48,10 @@ img{
 td{
     padding-bottom: 20px;
 }
+a{
+    text-decoration: none;
+    color: whitesmoke;
+    border: solid;
+    border-color: whitesmoke;
+    border-radius: 5%;
+}
